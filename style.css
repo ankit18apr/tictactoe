@@ -1,0 +1,44 @@
+body{
+    background-image:url("image/img1.gif");}
+    
+  #result{
+      height: 486px;
+      width: 486px;
+      margin-left: auto;
+      margin-right: auto;
+      background-color:rgba(250, 235, 215, 0.192);
+      opacity: 0.5;
+      position: absolute;
+      left:32vw;
+      top: 20vh;
+      color:rgb(0, 238, 255);
+      text-align: center;
+      font-size: 100px;
+      text-shadow:2px 2px rgb(236, 236, 16);
+  }
+  
+#main{
+    height:486px;
+    width: 486px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+    position: relative;
+    border: 2px solid black;
+    
+}
+
+.back{
+width: 160px;
+height: 160px;
+background-color: rgba(0, 0, 0, 0.6);
+position: relative;
+float: left;
+font-size: 160px;
+font-style: bold;
+color:antiquewhite;
+border:1px solid blue;
+text-align: center;
+}
+
+
